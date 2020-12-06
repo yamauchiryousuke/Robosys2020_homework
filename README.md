@@ -10,7 +10,7 @@
 コンパイルと実行方法は以下の通りである。
 ```
 $ cd Robosys2020_homework/myled  
-$ maka  
+$ make  
 $ sudo insmod myled.ko  
 $ sudo chmod 666 /dev/myled0  
 $ echo 1 > /dev/myled0  
