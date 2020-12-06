@@ -6,7 +6,7 @@
 *kernel：* Linux version 5.4.0  
 *使用言語：* C言語  
 ## ・実行方法
-使用したGPIOピンは23、24、25番ピンである。  
+LEDに使用したGPIOピンは23、24、25番ピンである。  
 コンパイルと実行方法は以下の通りである。
 ```
 $ cd Robosys2020_homework/myled  
