@@ -1,5 +1,5 @@
 # Robosys2020_homework
-*Raspberry Pi 4を用いた3つのLEDを順番に点滅させるデバイスドライバの作成*  
+**Raspberry Pi 4を用いた3つのLEDを順番に点滅させるデバイスドライバの作成**  
 ## ・実行環境  
 本体：Raspberry Pi 4 Computer Model B 4GB RAM  
 OS：Ubuntu Server 20.04.1 LST  
