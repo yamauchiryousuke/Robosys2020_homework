@@ -3,7 +3,7 @@
 ## ・実行環境  
 本体：Raspberry Pi 4 Computer Model B 4GB RAM  
 OS：Ubuntu Server 20.04.1 LST  
-kernel：Linux version   5.4.0
+kernel：Linux version 5.4.0  
 使用言語：C言語  
 ## ・実行方法
 使用したGPIOピンは23、24、25番ピンである。  
